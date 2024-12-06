@@ -1,6 +1,6 @@
 # golang
 
-grade-1   :: basic go programs
+grade-1   ::  basic go programs
 
 grade-2   :: 
 
@@ -12,10 +12,10 @@ grade-5   ::  medium codes
 
 grade-6   ::  difficult codes
 
-grade-7   ::  regex
+grade-7   ::  
 
-grade-8   ::  restful apis
+grade-8   ::  
 
-grade-9   ::  flask
+grade-9   ::  
 
-grade-10  ::  python Django
+grade-10  ::  
